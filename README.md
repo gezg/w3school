@@ -1,6 +1,6 @@
 # W3School 教程整理 #
 
-与W3school无关的教程已从此列表中移除，在[这里](https://github.com/wizardforcel/dev-tutorial)。
+与W3school无关的教程已从此列表中移除，在[这里](https://github.com/gezg/develop)。
 
 * * *
 
