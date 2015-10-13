@@ -4,10 +4,72 @@
 
 * * *
 
-## Android 教程
+## JavaScript &amp; jQuery教程
 
-+ 在线浏览
-  + [Android 教程](http://www.runoob.com/w3cnote/android-tutorial-intro.html)
+* 在线浏览
+  * [JavaScript教程](http://www.w3cschool.cc/js/js-tutorial.html)
+  * [HTML DOM教程](http://www.w3cschool.cc/htmldom/htmldom-tutorial.html)
+  * [JavaScript高级教程](http://www.w3school.com.cn/js/index_pro.asp)
+  * [jQuery教程](http://www.w3cschool.cc/jquery/jquery-tutorial.html)
+  * [Ajax教程](http://www.w3cschool.cc/ajax/ajax-tutorial.html)
+  * [Google地图教程](http://www.w3cschool.cc/googleapi/googleapi-tutorial.html)
+* PDF版（2014.10.27）
+  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8088421)
+  * [51CTO下载](http://down.51cto.com/data/1890200)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCq)
+  * [百度云下载](http://pan.baidu.com/s/1dDF7D53)
+
+## JavaScript参考手册
+
+* 在线浏览
+  * [JavaScript参考手册](http://www.w3cschool.cc/jsref/jsref-tutorial.html)
+* PDF版（2014.10.3）
+  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8000335)
+  * [51CTO下载](http://down.51cto.com/data/1879731)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBU)
+  * [百度云下载](http://pan.baidu.com/s/1i3kXrvB)
+
+## jQueryMobile教程
+
+* 在线浏览
+  * [jQueryMobile教程](http://www.w3cschool.cc/jquerymobile/jquerymobile-tutorial.html)
+* PDF版（2014.10.22）
+  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8069785)
+  * [51CTO下载](http://down.51cto.com/data/1887084)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCx)
+  * [百度云下载](http://pan.baidu.com/s/1jGKhhps)
+
+## jQuery UI教程
+
+* 在线浏览
+  * [jQuery UI教程](http://www.w3cschool.cc/jqueryui/jqueryui-tutorial.html)
+  * [jQuery Easy UI教程](http://www.w3cschool.cc/jeasyui/jqueryeasyui-tutorial.html)
+* PDF版（2014.10.1）
+  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7996813)
+  * [51CTO下载](http://down.51cto.com/data/1879132)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCc)
+  * [百度云下载](http://pan.baidu.com/s/1dDlLxD3)
+
+## JQuery参考手册
+
+* 在线浏览
+  * [jQuery参考手册](http://www.w3cschool.cc/jquery/jquery-ref-selectors.html)
+* PDF版（2014.10.2）
+  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7997915)
+  * [51CTO下载](http://down.51cto.com/data/1879306)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCb)
+  * [百度云下载](http://pan.baidu.com/s/1qWp2JiW)
+
+## Node.js教程
+
+* 在线浏览
+  * [Node.js教程](http://www.w3cschool.cc/nodejs/nodejs-tutorial.html)
+* PDF版（2014.10.26）
+  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8083187)
+  * [51CTO下载](http://down.51cto.com/data/1889497)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBH)
+  * [百度云下载](http://pan.baidu.com/s/1mgn9bz6)
+
 
 ## AngularJS教程
 
@@ -112,6 +174,12 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBR)
   * [百度云下载](http://pan.baidu.com/s/1eQ2Esro)
 
+## Android 教程
+
++ 在线浏览
+  + [Android 教程](http://www.runoob.com/w3cnote/android-tutorial-intro.html)
+
+
 ## ios教程
 
 * 在线浏览
@@ -134,62 +202,6 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBV)
   * [百度云下载](http://pan.baidu.com/s/1eQGR5vG)
 
-## JavaScript &amp; jQuery教程
-
-* 在线浏览
-  * [JavaScript教程](http://www.w3cschool.cc/js/js-tutorial.html)
-  * [HTML DOM教程](http://www.w3cschool.cc/htmldom/htmldom-tutorial.html)
-  * [JavaScript高级教程](http://www.w3school.com.cn/js/index_pro.asp)
-  * [jQuery教程](http://www.w3cschool.cc/jquery/jquery-tutorial.html)
-  * [Ajax教程](http://www.w3cschool.cc/ajax/ajax-tutorial.html)
-  * [Google地图教程](http://www.w3cschool.cc/googleapi/googleapi-tutorial.html)
-* PDF版（2014.10.27）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8088421)
-  * [51CTO下载](http://down.51cto.com/data/1890200)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCq)
-  * [百度云下载](http://pan.baidu.com/s/1dDF7D53)
-
-## JavaScript参考手册
-
-* 在线浏览
-  * [JavaScript参考手册](http://www.w3cschool.cc/jsref/jsref-tutorial.html)
-* PDF版（2014.10.3）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8000335)
-  * [51CTO下载](http://down.51cto.com/data/1879731)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBU)
-  * [百度云下载](http://pan.baidu.com/s/1i3kXrvB)
-
-## jQueryMobile教程
-
-* 在线浏览
-  * [jQueryMobile教程](http://www.w3cschool.cc/jquerymobile/jquerymobile-tutorial.html)
-* PDF版（2014.10.22）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8069785)
-  * [51CTO下载](http://down.51cto.com/data/1887084)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCx)
-  * [百度云下载](http://pan.baidu.com/s/1jGKhhps)
-
-## jQuery UI教程
-
-* 在线浏览
-  * [jQuery UI教程](http://www.w3cschool.cc/jqueryui/jqueryui-tutorial.html)
-  * [jQuery Easy UI教程](http://www.w3cschool.cc/jeasyui/jqueryeasyui-tutorial.html)
-* PDF版（2014.10.1）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7996813)
-  * [51CTO下载](http://down.51cto.com/data/1879132)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCc)
-  * [百度云下载](http://pan.baidu.com/s/1dDlLxD3)
-
-## JQuery参考手册
-
-* 在线浏览
-  * [jQuery参考手册](http://www.w3cschool.cc/jquery/jquery-ref-selectors.html)
-* PDF版（2014.10.2）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7997915)
-  * [51CTO下载](http://down.51cto.com/data/1879306)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCb)
-  * [百度云下载](http://pan.baidu.com/s/1qWp2JiW)
-
 ## Linux教程
 
 * 在线浏览
@@ -209,16 +221,6 @@
   * [51CTO下载](http://down.51cto.com/data/1878951)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlB-)
   * [百度云下载](http://pan.baidu.com/s/1bn0c8z1)
-
-## Node.js教程
-
-* 在线浏览
-  * [Node.js教程](http://www.w3cschool.cc/nodejs/nodejs-tutorial.html)
-* PDF版（2014.10.26）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8083187)
-  * [51CTO下载](http://down.51cto.com/data/1889497)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBH)
-  * [百度云下载](http://pan.baidu.com/s/1mgn9bz6)
 
 ## PHP教程
 
